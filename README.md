@@ -25,7 +25,7 @@ as well as a card list that displays locations and scenes.
 - Responsive web design mobile & desktop
 
 Link to my Spot project on Github pages:
-https://herajang-web.github.io/se_project_spots
+https://herajang-web.github.io/se_project_spots/index.html
 
 Link to my video of the overview of Spots Project:
 https://drive.google.com/file/d/1wi1vQ_BKvJwIe600C_Y6F37h9gXasxkY/view?usp=sharing
