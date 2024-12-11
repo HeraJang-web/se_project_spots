@@ -21,7 +21,6 @@ as well as a card list that displays locations and scenes.
 **Approaches used in Spots**
 
 - CSS Grid
-- Flexbox
 - Figma
 - Responsive web design mobile & desktop
 
@@ -29,4 +28,4 @@ Link to my Spot project on Github pages:
 https://herajang-web.github.io/se_project_spots
 
 Link to my video of the overview of Spots Project:
-/_Will put the video up after first submission review _/
+https://drive.google.com/file/d/1wi1vQ_BKvJwIe600C_Y6F37h9gXasxkY/view?usp=sharing
