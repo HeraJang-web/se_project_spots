@@ -119,10 +119,11 @@
 
   .profile__column {
     margin: 0 0 20px;
+    align-items: center; /* To center i put align item center in the profile column in the media query */
   }
 
   .profile__edit-btn {
-    margin: 0 0 20px;
+    margin: 0; /* It seems  that 20 px from profile column and 20 px from edit btn gives me 40px and so i have erased one margin to get 20px  */
   }
 
   .profile__add-btn {
