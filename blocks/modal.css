@@ -24,6 +24,7 @@
   width: 100%;
   box-sizing: border-box;
   position: relative;
+  border-radius: 8px;
 }
 
 .modal__close-btn {
@@ -34,9 +35,14 @@
   height: 40px;
   background-image: url("../images/close.svg");
   background-repeat: no-repeat;
-  background-color: none;
+  background-color: transparent;
   border: none;
   opacity: 40%;
+}
+
+.modal__close-btn:hover {
+  cursor: pointer;
+  opacity: 100%;
 }
 
 .modal__title {
@@ -72,6 +78,11 @@
   font-size: 16px;
   line-height: 16px;
   cursor: pointer;
+}
+
+.modal__submit-btn:hover {
+  cursor: pointer;
+  opacity: 80%;
 }
 
 @media screen and (max-width: 627px) {
